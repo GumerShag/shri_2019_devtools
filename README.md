@@ -37,7 +37,7 @@ Scripting|3486
 Rendering|1493
 Painting|335
 
-##Вкладка Coverage
+## Вкладка Coverage
 
  Скриншот вкладки сразу после загрузки
  ![coverage_img](./files/imgs/coverage.png)
